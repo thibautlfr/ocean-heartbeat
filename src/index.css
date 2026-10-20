@@ -5,5 +5,5 @@
 /* gianiteh.otf */
 @font-face {
   font-family: "Gianiteh";
-  src: url("./fonts/gianiteh.otf") format("opentype");
+  src: url("/fonts/gianiteh.otf") format("opentype");
 }
